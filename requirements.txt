@@ -1,0 +1,5 @@
+
+pandas
+sqlalchemy
+sqlite3   # If you're using SQLite, this comes with Python
+```
